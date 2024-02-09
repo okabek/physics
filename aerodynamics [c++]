@@ -1,1 +1,9 @@
-aerodynamics
+#include <iostream>
+
+//
+
+int main()
+{
+    double gravitational_force = 9.8 // m/s^2 
+    
+}
